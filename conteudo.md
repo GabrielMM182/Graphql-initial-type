@@ -1,0 +1,1 @@
+-> vamos criar o index.ts para pegar tudo que tem dentro de resolvers
